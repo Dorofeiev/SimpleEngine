@@ -1,0 +1,8 @@
+/Users/sergijdorofeev/Projects/GameEngine/SimpleEngine/build/CMakeFiles/edit_cache.dir
+/Users/sergijdorofeev/Projects/GameEngine/SimpleEngine/build/CMakeFiles/rebuild_cache.dir
+/Users/sergijdorofeev/Projects/GameEngine/SimpleEngine/build/SimpleEngineCore/CMakeFiles/SimpleEngineCore.dir
+/Users/sergijdorofeev/Projects/GameEngine/SimpleEngine/build/SimpleEngineCore/CMakeFiles/edit_cache.dir
+/Users/sergijdorofeev/Projects/GameEngine/SimpleEngine/build/SimpleEngineCore/CMakeFiles/rebuild_cache.dir
+/Users/sergijdorofeev/Projects/GameEngine/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/SimpleEngineEditor.dir
+/Users/sergijdorofeev/Projects/GameEngine/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/edit_cache.dir
+/Users/sergijdorofeev/Projects/GameEngine/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/rebuild_cache.dir
